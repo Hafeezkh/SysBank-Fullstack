@@ -1,0 +1,3 @@
+[submodule "Sys-Bank"]
+	path = Sys-Bank
+	url = https://github.com/Hafeezkh/Sys-Bank.git

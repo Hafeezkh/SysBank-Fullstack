@@ -1,0 +1,13 @@
+#server:
+#  port: 3000
+#spring:
+#  datasource:
+#    url: jdbc:postgresql://localhost:5432/bankweb
+#    username: hafeezk
+#    password: 12345678
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+#    properties:
+#      hibernate:
+#        dialect: org.hibernate.dialect.PostgreSQLDialect
